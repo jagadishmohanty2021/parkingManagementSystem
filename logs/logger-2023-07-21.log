@@ -1,0 +1,10 @@
+error: Jul-21-2023 13:38:11: 	E11000 duplicate key error collection: testMongoDb.bookingdetails index: vehicleNumber_1 dup key: { vehicleNumber: "123-12-2564" }
+error: Jul-21-2023 13:38:11: 	hello
+error: Jul-21-2023 13:38:45: 	E11000 duplicate key error collection: testMongoDb.bookingdetails index: vehicleNumber_1 dup key: { vehicleNumber: "123-12-2564" }
+error: Jul-21-2023 13:38:45: 	hello
+error: Jul-21-2023 13:39:21: 	E11000 duplicate key error collection: testMongoDb.bookingdetails index: vehicleNumber_1 dup key: { vehicleNumber: "123-12-2564" }
+error: Jul-21-2023 13:39:21: 	hello
+error: Jul-21-2023 13:42:17: 	rate is not defined
+error: Jul-21-2023 13:42:17: 	hello
+error: Jul-21-2023 13:42:46: 	vehicleData is not defined
+error: Jul-21-2023 13:42:46: 	hello
